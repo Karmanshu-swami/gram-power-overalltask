@@ -1,0 +1,6 @@
+node_modules
+Dockerfile
+api.rest
+export.sh
+.gitignore
+.git;
